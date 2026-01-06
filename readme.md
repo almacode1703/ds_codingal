@@ -21,3 +21,8 @@
    ### Activity-1 : Introduceme function
    ### Activity-2 : Factorial using recursion
    ### Activity-3 : Calculator
+
+# Lesson 6:
+   ### Activity-1 : Turtle - 1 : Triangle
+   ### Activity-2 : Turtle - 2 : Star
+   ### Activity-3 : Turtle - 3 : Design 
