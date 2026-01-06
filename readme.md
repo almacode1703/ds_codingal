@@ -21,4 +21,3 @@
    ### Activity-1 : Introduceme function
    ### Activity-2 : Factorial using recursion
    ### Activity-3 : Calculator
-   ### Activity-4 : Prime number
