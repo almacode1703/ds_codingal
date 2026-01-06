@@ -10,4 +10,15 @@
    ### Activity-2 : BMI
    ### Activity-3 : Greater than 50 + odd /even
    ### Activity-4 : Time, Calendar
-    
+
+# Lesson 4 : 
+   ### Activity-1 : Number Table of 23
+   ### Activity-2 : Star Pattern
+   ### Activity-3 : Sum of n Natuaral numbers
+   ### Activity-4 : Prime number
+
+# Lesson 5:
+   ### Activity-1 : Introduceme function
+   ### Activity-2 : Factorial using recursion
+   ### Activity-3 : Calculator
+   ### Activity-4 : Prime number
